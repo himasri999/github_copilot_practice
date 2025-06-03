@@ -33,4 +33,4 @@ def get_system_uptime():
         print(f"Unsupported OS: {system}")
 
 if __name__ == "__main__":
-    get_system_uptime()
+
